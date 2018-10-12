@@ -1,5 +1,5 @@
 
-## Airline Booking Demand ForecastingModel
+## Airline Booking Demand Forecasting Model
 
 ![](https://github.com/tshrivas/Airline-Booking-Demand-Forecasting-Model/blob/master/Header.png)
 
